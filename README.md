@@ -1,4 +1,4 @@
-# 江苏大学宿舍电费查询系统
+<img width="1805" height="1033" alt="image" src="https://github.com/user-attachments/assets/b8cf983a-5db4-4540-a675-0fb4a470ba58" /># 江苏大学宿舍电费查询系统
 
 ## 项目简介
 
@@ -61,6 +61,10 @@
    - 方法2：手动获取cookie并粘贴到输入框
 3. **绑定宿舍信息**：填写校区、社区、楼栋、房间号和查询密码
 4. **设置房间密码**：首次使用时系统会提示设置房间密码和信息
+   <img width="1805" height="1033" alt="image" src="https://github.com/user-attachments/assets/2c698710-e5be-4dd6-9e7f-c4981c6ef7b6" />
+   <img width="1012" height="775" alt="image" src="https://github.com/user-attachments/assets/d11e193c-1b6b-4116-b93e-4f5c704554b6" />
+<img width="960" height="731" alt="image" src="https://github.com/user-attachments/assets/ab7de2af-cbf1-4a39-ad34-aa30498d6be3" />
+
 
 ### 日常使用
 
@@ -70,6 +74,8 @@
 4. **输入查询日期**：输入开始和结束日期（格式：YYYY-MM）
 5. **点击查询**：系统会自动获取用电数据
 6. **查看结果**：查看查询结果和用电趋势图表
+   <img width="1874" height="800" alt="image" src="https://github.com/user-attachments/assets/5d9bd806-f63e-4c5d-b192-ceea2b761837" />
+
 
 ### 手动获取VPN Cookie
 
