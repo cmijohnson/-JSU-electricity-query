@@ -1,4 +1,4 @@
-<img width="1805" height="1033" alt="image" src="https://github.com/user-attachments/assets/b8cf983a-5db4-4540-a675-0fb4a470ba58" /># 江苏大学宿舍电费查询系统
+# 江苏大学宿舍电费查询系统
 
 ## 项目简介
 
